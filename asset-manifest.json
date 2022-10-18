@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moreh/static/css/main.e6c13ad2.css",
+    "main.js": "/moreh/static/js/main.52922e67.js",
+    "index.html": "/moreh/index.html",
+    "main.e6c13ad2.css.map": "/moreh/static/css/main.e6c13ad2.css.map",
+    "main.52922e67.js.map": "/moreh/static/js/main.52922e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.52922e67.js"
+  ]
+}
